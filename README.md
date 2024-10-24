@@ -1,2 +1,2 @@
 # documentation
-testing moving software documentation to git
+testing adding software documentations to git for better version control
