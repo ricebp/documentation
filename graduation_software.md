@@ -19,26 +19,23 @@ The managers must review the cases in “grad suggestions” and decide whether 
 
 # Steps for using the grad suggestions sheet
 
-
-
 1. The first thing a manager should do when working on graduations is to press “update.”
     1. This will look for new info and populate it
     2. It will also put the rows in the right order
 2. When there is a row in “[grad suggestions](https://docs.google.com/spreadsheets/d/1sfHtQanFG5i4fSfgVg7YL9YLRABvrGMeBSO5YtQdk7c/edit?gid=1322013560#gid=1322013560)” for which the “last staff reviewed” is “Automatic,” then the managers should look at the weight gain and the recent phone/home history for the baby, and put one of the following suggestions in column F (the “grad status” column).
-    3. **grad:** Babies who meet the following criteria should be marked as “1”
-        * gaining at least 15 gm per day for the most recent measured weights between 40 and 44 weeks PMA (Medical consensus is that babies between 40 and 44 weeks PMA should gain 20-30 grams per day.  In this context, many of the babies do not gain that much weight.  In the future, when the program is more developed, we will reconsider this cutoff, and whether there are additional steps we can take to help babies gain appropriate weight.)
-        * are not sick
-        * are not being fed animal milk
-        * no longer being fed expressed breastmilk (unless they have cleft lip or palate)
-        * are greater than 2500 grams (for babies with initial weight less than 1000, graduation weight is 2000 if all other criteria are met)
-        * The program has collected a measured weight at or after 42 weeks PMA (column S should read “TRUE”) either through a phone call or home visit.
-    4. **grad wt pending:** These are babies who meet the above criteria, but we do not have a weight at or after 42W PMA.  We are confident enough that they do not need a home visit from a nurse that we will send a staff member without medical training to pick up the scale and record the weight.  We ask the staff member to call the manager if he finds out a baby is sick when he picks up the scale.
-    5. **still following:** These are babies who do not meet the above criteria, and we may be able to help them meet the criteria in the coming weeks.  The tools we have to do that are: 1) put them on priority calls, 2) ask them to come for an OPD visit, 3) do one or more home visits, 4) put them on special calls (calls from the managers).
-    6. **HV:** These are babies for whom we don’t know if they meet the criteria, and we haven’t been able to reach them on the phone.  They may need help to meet the criteria, and they may not.  If a manager enters “4” she should populate the “[home visit-active](https://docs.google.com/spreadsheets/d/1vX4HleT9MG7R5rPvDMDCswJ4RJFnwFc1mXW8U57SiVw/edit?gid=232921398#gid=232921398)” tab and state the reason for doing the home visit.
-    7. **“reached our limits”:**  These are babies who have reached 44 weeks PMA and do not meet the criteria, but the tools that the program has available (breastfeeding counseling and encouragement for OPD visits) are not sufficient to help the baby.  In the past, babies who have exited the program under this category at 44 weeks PMA have had hydrocephalus and congenital anomalies.
+3. **grad:** Babies who meet the following criteria should be marked as “1”
+    * gaining at least 15 gm per day for the most recent measured weights between 40 and 44 weeks PMA (Medical consensus is that babies between 40 and 44 weeks PMA should gain 20-30 grams per day.  In this context, many of the babies do not gain that much weight.  In the future, when the program is more developed, we will reconsider this cutoff, and whether there are additional steps we can take to help babies gain appropriate weight.)
+    * are not sick
+    * are not being fed animal milk
+    * no longer being fed expressed breastmilk (unless they have cleft lip or palate)
+    * are greater than 2500 grams (for babies with initial weight less than 1000, graduation weight is 2000 if all other criteria are met)
+    * The program has collected a measured weight at or after 42 weeks PMA (column S should read “TRUE”) either through a phone call or home visit.
+4. **grad wt pending:** These are babies who meet the above criteria, but we do not have a weight at or after 42W PMA.  We are confident enough that they do not need a home visit from a nurse that we will send a staff member without medical training to pick up the scale and record the weight.  We ask the staff member to call the manager if he finds out a baby is sick when he picks up the scale.
+5. **still following:** These are babies who do not meet the above criteria, and we may be able to help them meet the criteria in the coming weeks.  The tools we have to do that are: 1) put them on priority calls, 2) ask them to come for an OPD visit, 3) do one or more home visits, 4) put them on special calls (calls from the managers).
+6. **HV:** These are babies for whom we don’t know if they meet the criteria, and we haven’t been able to reach them on the phone.  They may need help to meet the criteria, and they may not.  If a manager enters “4” she should populate the “[home visit-active](https://docs.google.com/spreadsheets/d/1vX4HleT9MG7R5rPvDMDCswJ4RJFnwFc1mXW8U57SiVw/edit?gid=232921398#gid=232921398)” tab and state the reason for doing the home visit.
+7. **“reached our limits”:**  These are babies who have reached 44 weeks PMA and do not meet the criteria, but the tools that the program has available (breastfeeding counseling and encouragement for OPD visits) are not sufficient to help the baby.  In the past, babies who have exited the program under this category at 44 weeks PMA have had hydrocephalus and congenital anomalies.
 
-# 
-    Notes on Specific Graduate Actions:
+# Notes on Specific Graduate Actions:
 
 1. A phone/home manager should review the cases and propose the category for each baby (1-5) described in **2** at regular intervals, according to the list of phone/home tasks.
 2. A second manager then reviews the cases at regular intervals and take the following actions on each category of case:
