@@ -4,7 +4,7 @@
 ## Authors: Bishnupriya, Diane
 
 
-## Date: 
+## Date: "`r format(Sys.time(), '%d %B, %Y')`"
 
 Babies get imported to the “grad suggestions” tab of “[graduation and supplies return sheet](https://docs.google.com/spreadsheets/d/1sfHtQanFG5i4fSfgVg7YL9YLRABvrGMeBSO5YtQdk7c/edit?gid=1322013560#gid=1322013560)” from the database when they reach 44W PMA, whether or not they meet the graduation criteria.
 
